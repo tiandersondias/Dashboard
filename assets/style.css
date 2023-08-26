@@ -18,7 +18,7 @@ body {
     min-height: 100vh;*/
   }
   
-  area-adwords {
+  #area-adwords {
     min-height: 421px !important;
     margin-right: -20px;
   }
